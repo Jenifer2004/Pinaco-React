@@ -1,0 +1,32 @@
+:root{
+    --fondoHome: linear-gradient(to right, 3cede 0%, #96cbcb 30%, #49a5bf 100%);
+    --btnHeader: #00a9ac;
+    --btnHeaderGris: #96a0a0;
+
+    --btnMetodologiaNegro: #000000;
+    --btnmetodologia:  #454545;
+    --btnMetodologia: #ccc9c9;
+    --bgMetodologia: #eac6e0;
+
+    --bgEquipo: #ffcab8;
+    --bgNone:  #ffccb9;
+    --navbar-custom: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(150,203,203,1) 23%, rgba(150,203,203,1) 30%, rgba(73,165,191,1) 100%);
+    --end-page:  #fad27c;
+    --contenedorPadre: rgb(255, 255, 255);
+
+
+    --Colores: #3569b4;
+    --Que: #30568b;
+    --No: #fe3d38;
+    --Entiendo: #cc3934;
+    --Donde: #80808057;
+    --Carajo: #fff0;
+    --Van: rgba(12,18,28, 0.87);
+    --Pero: #0000ff;
+    --Igual: #232346;
+    --Los: #ff8353;
+    --Pongo: #ffffff;
+    --PQ: #e46d3e;
+    --Si: rgba(71, 72, 72, 0.87);
+    --T_T: rgb(0, 0, 0);
+}

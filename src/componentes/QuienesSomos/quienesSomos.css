@@ -1,0 +1,44 @@
+.about-services{
+    background: #74ebd5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding-bottom: 30px;
+}
+
+
+.servicio-cont{
+    display:flex;
+    justify-content:center;
+}
+
+.servicio-ind{
+    width: 80%;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.servicio-ind img{
+    width: 50%;
+
+}
+
+.servicio-ind h3{
+    margin: 10px 0;
+}
+
+.servicio-ind p{
+    font-weight: 500;
+    font-size: 18px;
+    text-align: justify;
+    padding: 0 11px;
+    width: 50%;
+}
+.fondo {width: 100%;
+    height: 100vh;
+    padding-top: 150px;
+    align-content: center;
+    background: #111 ;
+    background-blend-mode: soft-light;
+}
